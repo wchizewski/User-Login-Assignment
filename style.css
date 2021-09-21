@@ -1,0 +1,29 @@
+html {
+    background: cyan;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: white;
+    border-radius: 25px;
+    padding: 25px 50px 40px;
+    margin: 25px auto;
+    width: 600px;
+}
+
+button {
+    background: cyan;
+    width: 598px;
+    height: 45px;
+    font-weight: 800;
+}
+
+input {
+    width: 590px;
+    height: 30px;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
